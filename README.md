@@ -46,4 +46,7 @@ Real time features.
 * Real time cheat editor. Let's you write game cheats in real time using the built in or other standardised cheat format.
 * Real time game menu. This is how you can change some system settings that can be changed during gameplay, use any of the real time features and return to the kernels main menu. More functionality may be added to this in the future.
 
+------------------------------------------------------------------------------------------------------
+Further ideas for this kernel?
+
 If you have any further suggestions, feel free to contact me with them. I don't know if everything I have covered here is everything the best possible flashcart kernel should have, so please do let me know if you have anything that would be good to have in the kernel.
