@@ -3,7 +3,7 @@ A some day to exist hopefully good DS flashcart kernel replacement.
 The plan is for this to be good enough to replace YSmenu as the default alteernative kernel that people will use, purley because YSmenu is not open source which I'm not a fan of and because it doesn't have much in terms of cutomisability.
 
 ------------------------------------------------------------------------------------------------------
-Planned Features:
+## Planned Features:
 
 A mostly databse driven kernel, so adding AP patches, changing cheats, RTS patches if that ever becomes a thing for this kernel, everything is database driven that can be. Databases should also be capable of being edited with any text editor, such as notepad for windows.
 * This will hopefully mean people will be able to add their own AP patches and what not easily so that can be done quickly.
@@ -47,6 +47,6 @@ Real time features.
 * Real time game menu. This is how you can change some system settings that can be changed during gameplay, use any of the real time features and return to the kernels main menu. More functionality may be added to this in the future.
 
 ------------------------------------------------------------------------------------------------------
-Further ideas for this kernel?
+## Further ideas for this kernel?
 
 If you have any further suggestions, feel free to contact me with them. I don't know if everything I have covered here is everything the best possible flashcart kernel should have, so please do let me know if you have anything that would be good to have in the kernel.
